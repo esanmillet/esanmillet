@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @esanmillet
 - 👀 I’m interested in anime, software development, cyber security and business. 
-- 🌱 I’m currently practicing web development skills along with python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently practicing software development & engineering skills 
 
 <!---
 esanmillet/esanmillet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
