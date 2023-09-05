@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @esanmillet
-- 👀 I’m interested in anime, software development, cyber security and business. 
+- 👀 I’m interested in anime, gaming, cloud technologies, software development, cyber security and business. 
 - 🌱 I’m currently practicing software development & engineering skills 
 
 <!---
